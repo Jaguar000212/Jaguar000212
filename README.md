@@ -31,6 +31,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wizard-i&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/wizard-i/)
 
+---
+
+### ⚒️ My Projects
+- 💒 [Wedding Planner](https://github.com/Wizard-i/Wedding-Planner)
+- 📃 [Address Book](https://github.com/Wizard-i/Address-Book)
+- 🤖 [Discord Bot](https://github.com/Wizard-i/Wizardi)
+
+---
 
 ### 🤝🏻 Connect with Me
 
