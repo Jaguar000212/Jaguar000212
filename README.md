@@ -25,18 +25,20 @@
 
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=wizard-i&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Jaguar000212's Github Stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=wizard-i&custom_title=Jaguar000212's%20Github%20Stats&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Jaguar000212's Github Stats"> 
 
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wizard-i&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/wizard-i/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wizard-i&card_width=500&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/wizard-i/)
+<br></br>
 
 ---
 
 ### ⚒️ My Projects
-- 💒 [Wedding Planner](https://github.com/Wizard-i/Wedding-Planner)
-- 📃 [Address Book](https://github.com/Wizard-i/Address-Book)
-- 🤖 [Discord Bot](https://github.com/Wizard-i/Wizardi)
+- 💒 Wedding Planner <br></br>
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wizard-i&repo=Wedding-Planner&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/Wizard-i/Wedding-Planner)
+- 📃 Address Book <br></br>
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wizard-i&repo=Address-Book&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/Wizard-i/Address-Book)
+- 🤖 Discord Bot <br></br>
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wizard-i&repo=Wizardi&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/Wizard-i/Wizardi)
 
 ---
 
