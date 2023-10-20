@@ -1,8 +1,8 @@
-## Hey there! I'm Shryansh. <img src="https://raw.githubusercontent.com/wizard-i/wizard-i/master/Hi.gif" width="25">
+## Hey there! I'm Shryansh. <img src="https://github.com/Wizard-i/Wizard-i/blob/main/Hi.gif?raw=true" width="25">
 
 ``aka Jaguar000212``
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/wizard-i/wizard-i/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://github.com/Wizard-i/Wizard-i/blob/main/gif2.gif.gif?raw=true" width="500"/>
 
 ### 👨🏻‍💻 About Me
 
