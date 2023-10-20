@@ -2,7 +2,7 @@
 
 ``aka Jaguar000212``
 
-<img align="right" alt="GIF" src="https://github.com/Wizard-i/Wizard-i/blob/main/gif2.gif.gif?raw=true" width="350"/>
+<img align="right" alt="GIF" src="https://github.com/Wizard-i/Wizard-i/blob/main/gif2.gif?raw=true" width="350"/>
 
 ### 👨🏻‍💻 About Me
 
@@ -27,7 +27,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=wizard-i&custom_title=Jaguar000212's%20Github%20Stats&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Jaguar000212's Github Stats"> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wizard-i&card_width=500&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/wizard-i/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wizard-i&card_width=350&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/wizard-i/)
 <br></br>
 
 ---
