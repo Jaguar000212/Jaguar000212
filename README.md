@@ -2,7 +2,7 @@
 
 ``aka Jaguar000212``
 
-<img align="right" alt="GIF" src="https://github.com/Wizard-i/Wizard-i/blob/main/gif2.gif.gif?raw=true" width="500"/>
+<img align="right" alt="GIF" src="https://github.com/Wizard-i/Wizard-i/blob/main/gif2.gif.gif?raw=true" width="350"/>
 
 ### 👨🏻‍💻 About Me
 
