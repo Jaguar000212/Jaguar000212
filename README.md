@@ -13,7 +13,7 @@
 - 🌱 Enthusiast in Machine Learning, Artificial Intelligence and Software Development.
 - ✍️ Gamer and Tech Enthusiast hobbies/side hustles.
 - ❤️ First love Coding
-- 😮‍💨 I belive, a perfect playlist along with a long drive can be the ultimate solution for any stress. 
+- 😮‍💨 I believe, a perfect playlist along with a long drive can be the ultimate solution for any stress. 
 
 ### 🛠 Tech Stack
 
