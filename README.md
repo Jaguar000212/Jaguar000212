@@ -17,11 +17,11 @@
 
 ### 🛠 Tech Stack
 
-- 💻 Python | C++  
-- 🌐 HTML | CSS 
-- 🛢  &nbsp;MySQL | MongoDB
-- 🔧 Android Studio | PyCharm | Visual Studio | Git
-- 🖥 Adobe Xd | Illustrator | Photoshop | Unreal Engine
+- 💻 | Python | C++ |
+- 🌐 | HTML | CSS |
+- 🛢 | MySQL | MongoDB |
+- 🔧 | Android Studio | PyCharm | Visual Studio | Git |
+- 🖥 | Adobe Xd | Illustrator | Photoshop | Unreal Engine |
 
 ---
 
