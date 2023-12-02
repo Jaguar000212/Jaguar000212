@@ -1,10 +1,10 @@
-## Hey there! I'm Shryansh. <img src="https://github.com/Wizard-i/Wizard-i/blob/main/Hi.gif?raw=true" width="25">
+# Hey there! I'm Shryansh. <img src="https://github.com/Wizard-i/Wizard-i/blob/main/Hi.gif?raw=true" width="25">
 
 ``aka Jaguar000212``
 
 <img align="right" alt="GIF" src="https://github.com/Wizard-i/Wizard-i/blob/main/gif2.gif?raw=true" width="350"/>
 
-### 👨🏻‍💻 About Me
+## 👨🏻‍💻 About Me
 
 - 🔭 Currently learning C++ Application Development
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
@@ -15,7 +15,7 @@
 - ❤️ First love Coding
 - 😮‍💨 I believe, a perfect playlist along with a long drive can be the ultimate solution for any stress. 
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 - 💻 | Python | C++ |
 - 🌐 | HTML | CSS |
@@ -32,17 +32,17 @@
 
 ---
 
-### ⚒️ My Projects
-- 💒 Wedding Planner <br></br>
+## ⚒️ My Projects
+### - 💒 Wedding Planner <br></br>
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wizard-i&repo=Wedding-Planner&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/Wizard-i/Wedding-Planner)
-- 📃 Address Book <br></br>
+### - 📃 Address Book <br></br>
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wizard-i&repo=Address-Book&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/Wizard-i/Address-Book)
-- 🤖 Discord Bot <br></br>
+### - 🤖 Discord Bot <br></br>
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wizard-i&repo=Wizardi&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/Wizard-i/Wizardi)
 
 ---
 
-### 🤝🏻 Connect with Me
+## 🤝🏻 Connect with Me
 
 <p align="center">
 &nbsp; <a href="https://twitter.com/Jaguar000212" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
