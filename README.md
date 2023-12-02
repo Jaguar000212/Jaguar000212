@@ -33,11 +33,11 @@
 ---
 
 ## ⚒️ My Projects
-### - 💒 Wedding Planner <br></br>
+### - 💒 Wedding Planner <br>
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wizard-i&repo=Wedding-Planner&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/Wizard-i/Wedding-Planner)
-### - 📃 Address Book <br></br>
+### - 📃 Address Book <br>
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wizard-i&repo=Address-Book&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/Wizard-i/Address-Book)
-### - 🤖 Discord Bot <br></br>
+### - 🤖 Discord Bot <br>
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wizard-i&repo=Wizardi&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/Wizard-i/Wizardi)
 
 ---
