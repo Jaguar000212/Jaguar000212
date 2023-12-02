@@ -10,17 +10,34 @@
                 "edges": [
                     {
                         "node": {
-                            "name": "Address-Book",
-                            "description": "Your personal contacts manager",
-                            "forkCount": 1,
+                            "name": "Wizardi",
+                            "description": "A multi utility Discord bot in Python",
+                            "forkCount": 0,
                             "stargazers": {
                                 "totalCount": 2
                             },
-                            "url": "https://github.com/Wizard-i/Address-Book",
-                            "id": "R_kgDOKibb2Q",
-                            "diskUsage": 869,
+                            "url": "https://github.com/Wizard-i/Wizardi",
+                            "id": "R_kgDOKiT1tA",
+                            "diskUsage": 32,
                             "primaryLanguage": {
                                 "name": "Python",
+                                "color": "#3572A5"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "name": "Wizardi-Website",
+                            "description": "Wizardi's bot page",
+                            "forkCount": 0,
+                            "stargazers": {
+                                "totalCount": 2
+                            },
+                            "url": "https://github.com/Wizard-i/Wizardi-Website",
+                            "id": "R_kgDOKiTsdA",
+                            "diskUsage": 39116.8,
+                            "primaryLanguage": {
+                                "name": "CSS",
                                 "color": "#3572A5"
                             }
                         }
@@ -44,15 +61,15 @@
                     },
                     {
                         "node": {
-                            "name": "Wizardi",
-                            "description": "A multi utility Discord bot in Python",
-                            "forkCount": 0,
+                            "name": "Address-Book",
+                            "description": "Your personal contacts manager",
+                            "forkCount": 1,
                             "stargazers": {
                                 "totalCount": 2
                             },
-                            "url": "https://github.com/Wizard-i/Wizardi",
-                            "id": "R_kgDOKiT1tA",
-                            "diskUsage": 32,
+                            "url": "https://github.com/Wizard-i/Address-Book",
+                            "id": "R_kgDOKibb2Q",
+                            "diskUsage": 869,
                             "primaryLanguage": {
                                 "name": "Python",
                                 "color": "#3572A5"
