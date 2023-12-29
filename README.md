@@ -6,7 +6,7 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🔭 Currently learning C++ Application Development
+- 🔭 Currently learning Web and C++ Application Development
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 Studying Computer Science, computer programming and Mathematics.
 - 💼 Python and discord bot developer.
@@ -17,7 +17,7 @@
 
 ## 🛠 Tech Stack
 
-- 💻 | Python | C++ |
+- 💻 | Python | C++ | HTML | CSS | JavaScript |
 - 🌐 | HTML | CSS |
 - 🛢 | MySQL | MongoDB |
 - 🔧 | Android Studio | PyCharm | Visual Studio | Git |
