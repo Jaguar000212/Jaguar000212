@@ -1,8 +1,8 @@
-# Hey there! I'm Shryansh. <img src="https://github.com/Wizard-i/Wizard-i/blob/main/Hi.gif?raw=true" width="25">
+# Hey there! I'm Shryansh. <img src="https://github.com/Jaguar000212/Jaguar000212/blob/main/Hi.gif?raw=true" width="25">
 
 ``aka Jaguar000212``
 
-<img align="right" alt="GIF" src="https://github.com/Wizard-i/Wizard-i/blob/main/gif2.gif?raw=true" width="350"/>
+<img align="right" alt="GIF" src="https://github.com/Jaguar000212/Jaguar000212/blob/main/gif2.gif?raw=true" width="350"/>
 
 ## 👨🏻‍💻 About Me
 
@@ -25,20 +25,20 @@
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=wizard-i&custom_title=Jaguar000212's%20Github%20Stats&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Jaguar000212's Github Stats"> 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Jaguar000212&custom_title=Jaguar000212's%20Github%20Stats&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Jaguar000212's Github Stats"> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wizard-i&card_width=350&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/wizard-i/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaguar000212&card_width=350&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/Jaguar000212/)
 <br></br>
 
 ---
 
 ## ⚒️ My Projects
 ### - 💒 Wedding Planner <br>
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wizard-i&repo=Wedding-Planner&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/Wizard-i/Wedding-Planner)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaguar000212&repo=Wedding-Planner&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/Jaguar000212/Wedding-Planner)
 ### - 📃 Address Book <br>
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wizard-i&repo=Address-Book&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/Wizard-i/Address-Book)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaguar000212&repo=Address-Book&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/Jaguar000212/Address-Book)
 ### - 🤖 Discord Bot <br>
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wizard-i&repo=Wizardi&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/Wizard-i/Wizardi)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaguar000212&repo=Wizardi&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/Jaguar000212/Wizardi)
 
 ---
 
@@ -53,4 +53,4 @@
 
 ---
 
-⭐️ From [Jaguar000212](https://github.com/wizard-i)
+⭐️ From [Jaguar000212](https://github.com/Jaguar000212)
