@@ -20,8 +20,8 @@
 <p align="center">
   <pre>
     <code>
-      "😮‍💨 A perfect playlist along with a long drive can be the ultimate solution for any stress."
-                                                                                         ~ Jaguar000212</code>
+              "😮‍💨 A perfect playlist along with a long drive can be the ultimate solution for any stress."
+                                                                                                   ~ Jaguar000212</code>
   </pre>
 </p>
 
@@ -29,11 +29,11 @@
 
 <h2 align="center"> 🛠 Tech Stack </h2>
 
-- 💻 | Python | C++ | HTML | CSS | JavaScript |
+- 💻 | Python | C++ | JavaScript |
 - 🌐 | HTML | CSS |
-- 🛢 | MySQL | MongoDB |
-- 🔧 | Android Studio | PyCharm | Visual Studio | Git |
-- 🖥 | Adobe Xd | Illustrator | Photoshop | Unreal Engine |
+- 🛢 | MySQL | PostreSQL | MongoDB |
+- 🔧 | Android Studio | JetBeans IDEs | Visual Studio | Git | VS Code |
+- 🖥 | Adobe Photoshop | Unreal Engine |
 
 ---
 
