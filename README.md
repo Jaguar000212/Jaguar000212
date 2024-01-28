@@ -1,8 +1,10 @@
-# Hey there! I'm Shryansh. <img src="https://github.com/Jaguar000212/Jaguar000212/blob/main/Hi.gif?raw=true" width="25">
+# Hey there! I'm Shryansh. <img src="https://github.com/Jaguar000212/Jaguar000212/blob/main/static/media/Hi.gif?raw=true" width="25">
+<br>
+<img src="https://github.com/Jaguar000212/Jaguar000212/blob/main/static/media/Jaguar000212.png?raw=true">
 
 <h2 align="center"> 👨🏻‍💻 About Me </h2>
 <br>
-<img align="right" alt="GIF" src="https://github.com/Jaguar000212/Jaguar000212/blob/main/gif2.gif?raw=true" width="350"/>
+<img align="right" alt="GIF" src="https://github.com/Jaguar000212/Jaguar000212/blob/main/static/media/gif2.gif?raw=true" width="350"/>
 
 - 🔭 Currently learning Web and C++ Application Development
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
