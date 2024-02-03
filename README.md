@@ -34,7 +34,7 @@
 - 💻 | Python | C++ | JavaScript |
 - 🌐 | HTML | CSS |
 - 🛢 | MySQL | PostreSQL | MongoDB |
-- 🔧 | Android Studio | JetBeans IDEs | Visual Studio | Git | VS Code |
+- 🔧 | Android Studio | JetBrains IDEs | Visual Studio | Git | VS Code |
 - 🖥 | Adobe Photoshop | Unreal Engine |
 
 ---
