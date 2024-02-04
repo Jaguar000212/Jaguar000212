@@ -97,6 +97,7 @@
 <br>
 <br>
 <br>
+<br>
 
 <div width="100%" align="center">
   <a href="https://github.com/Jaguar000212/Wizardi" align="left">
@@ -113,15 +114,18 @@
 <br>
 <br>
 <br>
+<br>
 
 <div width="100%" align="center">
   <a href="https://github.com/Jaguar000212/Toodler" align="left">
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jaguar000212&repo=Toodler&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=000000"" />
+  </a>
   <a href="https://github.com/Jaguar000212/LOTM-API" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jaguar000212&repo=LOTM-API&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=000000"" />
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jaguar000212&repo=LOTM-API&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=000000"" />
   </a>
 </div>
 
+<br>
 <br>
 <br>
 <br>
