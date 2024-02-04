@@ -31,7 +31,7 @@
 
 <h2 align="center"> 🛠 Tech Stack </h2>
 
-- 💻 | Python | C++ | JavaScript |
+- 💻 | Python | C++ | JavaScript | Kotlin |
 - 🌐 | HTML | CSS |
 - 🛢 | MySQL | PostreSQL | MongoDB |
 - 🔧 | Android Studio | JetBrains IDEs | Visual Studio | Git | VS Code |
@@ -88,14 +88,16 @@
   </a>
   <a href="https://github.com/Jaguar000212/Address-Book" align="right">
       <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jaguar000212&repo=Address-Book&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=000000" />
-    </a>
+  </a>
 </div>
+
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
+
 <div width="100%" align="center">
   <a href="https://github.com/Jaguar000212/Wizardi" align="left">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jaguar000212&repo=Wizardi&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=000000" />
@@ -104,6 +106,22 @@
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jaguar000212&repo=Wizardi-API&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=000000"" />
   </a>
 </div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div width="100%" align="center">
+  <a href="https://github.com/Jaguar000212/Toodler" align="left">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jaguar000212&repo=Toodler&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=000000"" />
+  <a href="https://github.com/Jaguar000212/LOTM-API" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jaguar000212&repo=LOTM-API&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=000000"" />
+  </a>
+</div>
+
 <br>
 <br>
 <br>
