@@ -31,7 +31,7 @@
 
 <h2 align="center"> 🛠 Tech Stack </h2>
 
-- 💻 | Python | C++ | JavaScript | Kotlin |$$  $$
+- 💻 | Python | C++ | JavaScript | Kotlin |
 - 🌐 | HTML | CSS |
 - 🛢 | MySQL | PostreSQL | MongoDB |
 - 🔧 | Android Studio | JetBrains IDEs | Visual Studio | Git | VS Code |
