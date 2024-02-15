@@ -23,7 +23,7 @@
   <pre>
     <code>
               "😮‍💨 Long drive with melodious music can be the ultimate solution for any hurdle."
-                                                                                       ~ Jaguar000212</code>
+                                                                                       ~ Jaguar000212/Aarushi</code>
   </pre>
 </p>
 
