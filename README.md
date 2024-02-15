@@ -22,8 +22,8 @@
 <p align="center">
   <pre>
     <code>
-              "😮‍💨 A perfect playlist along with a long drive can be the ultimate solution for any stress."
-                                                                                                   ~ Jaguar000212</code>
+              "😮‍💨 Long drive with melodious music can be the ultimate solution for any hurdle."
+                                                                                       ~ Jaguar000212</code>
   </pre>
 </p>
 
