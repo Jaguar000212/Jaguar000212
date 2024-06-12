@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c1f2e0f6.css",
-    "main.js": "/static/js/main.a7358a3c.js",
+    "main.css": "/static/css/main.a702d48f.css",
+    "main.js": "/static/js/main.715adfa7.js",
     "static/css/136.169c4389.chunk.css": "/static/css/136.169c4389.chunk.css",
     "static/js/136.5895789e.chunk.js": "/static/js/136.5895789e.chunk.js",
     "static/css/380.35c2bb64.chunk.css": "/static/css/380.35c2bb64.chunk.css",
@@ -14,6 +14,7 @@
     "static/media/michigan.png": "/static/media/michigan.c82eca044d7ab6c5fba5.png",
     "static/media/codealpha_trs.png": "/static/media/codealpha_trs.21c634a6f2b94d309697.png",
     "static/media/ibm.png": "/static/media/ibm.4f60af234f11071e47e0.png",
+    "static/media/teachnook_trs.png": "/static/media/teachnook_trs.bc7c701e92b9c04ee12a.png",
     "static/media/codealpha.png": "/static/media/codealpha.b146e7c2b9ac586d2ee8.png",
     "static/media/manipalLogo.png": "/static/media/manipalLogo.88d56ecb091fb168b785.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
@@ -25,15 +26,15 @@
     "static/media/codsoft.jpg": "/static/media/codsoft.b69b8ef5c2cc51c57172.jpg",
     "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "index.html": "/index.html",
-    "main.c1f2e0f6.css.map": "/static/css/main.c1f2e0f6.css.map",
-    "main.a7358a3c.js.map": "/static/js/main.a7358a3c.js.map",
+    "main.a702d48f.css.map": "/static/css/main.a702d48f.css.map",
+    "main.715adfa7.js.map": "/static/js/main.715adfa7.js.map",
     "136.169c4389.chunk.css.map": "/static/css/136.169c4389.chunk.css.map",
     "136.5895789e.chunk.js.map": "/static/js/136.5895789e.chunk.js.map",
     "380.35c2bb64.chunk.css.map": "/static/css/380.35c2bb64.chunk.css.map",
     "380.4b9522d4.chunk.js.map": "/static/js/380.4b9522d4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1f2e0f6.css",
-    "static/js/main.a7358a3c.js"
+    "static/css/main.a702d48f.css",
+    "static/js/main.715adfa7.js"
   ]
 }

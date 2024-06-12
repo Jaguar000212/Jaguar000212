@@ -6,13 +6,12 @@
 <br>
 <img align="right" alt="GIF" src="https://github.com/Jaguar000212/Jaguar000212/blob/main/static/media/gif2.gif?raw=true" width="350"/>
 
-- 🔭 Currently learning Web and C++ Application Development
+- 🔭 Currently Application Development using Java & Kotlin.
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 Studying Computer Science, computer programming and Mathematics.
 - 💼 Python and discord bot developer.
 - 🌱 Enthusiast in Machine Learning, Artificial Intelligence and Software Development.
 - ✍️ Gamer and Tech Enthusiast hobbies/side hustles.
-- ❤️ First love Coding
   
 <!--Profile Count Badge-->
 <img src="https://komarev.com/ghpvc/?username=Jaguar000212&label=Profile%20views&color=2234AE&style=for-the-badge&logo=star" alt="Jaguar000212" style="padding-right:20px;" />
@@ -31,8 +30,8 @@
 
 <h2 align="center"> 🛠 Tech Stack </h2>
 
-- 💻 | Python | C++ | JavaScript | Kotlin |
-- 🌐 | HTML | CSS |
+- 💻 | Python | C++ | JavaScript | Kotlin | Java |
+- 🌐 | HTML | CSS | React |
 - 🛢 | MySQL | PostreSQL | MongoDB |
 - 🔧 | Android Studio | JetBrains IDEs | Visual Studio | Git | VS Code |
 - 🖥 | Adobe Photoshop | Unreal Engine |
