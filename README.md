@@ -22,7 +22,7 @@
   <pre>
     <code>
               "😮‍💨 Long drive with melodious music can be the ultimate solution for any hurdle."
-                                                                                       ~ Jaguar000212/Aarushi</code>
+                                                                                       ~ Jaguar000212</code>
   </pre>
 </p>
 
@@ -30,7 +30,7 @@
 
 <h2 align="center"> 🛠 Tech Stack </h2>
 
-- 💻 | Python | C++ | JavaScript | Kotlin | Java |
+- 💻 | Python | C | C++ | JavaScript | Kotlin | Java |
 - 🌐 | HTML | CSS | React |
 - 🛢 | MySQL | PostreSQL | MongoDB |
 - 🔧 | Android Studio | JetBrains IDEs | Visual Studio | Git | VS Code |
@@ -146,9 +146,10 @@
 <h2 align="center"> 🤝🏻 Connect with Me </h2>
 
 <p align="center">
-  &nbsp; <a href="https://twitter.com/Jaguar000212" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+  &nbsp; <a href="https://twitter.com/Jaguar000212" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>
   &nbsp; <a href="https://www.instagram.com/Jaguar000212/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
   &nbsp; <a href="https://www.linkedin.com/in/Jaguar000212/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+  &nbsp; <a href="https://discordapp.com/users/1015643292593029210" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/discord.png" width="50" /></a>  
   &nbsp; <a href="mailto:Jaguar000212@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
