@@ -52,19 +52,6 @@
 
 ---
 
-<!-- Streaks -->
-<h2 align="center">📈 Streaks </h2>
-
-<p align="center">
-  <a href="https://github.com/Jaguar000212/Jaguar000212">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaguar000212&theme=tokyonight&ring=ffa200&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5&hide_border=true&background=00000000" alt="Jaguar000212's streak" />
-  </a>
-</p>
-
-<br />
-
----
-
 <!-- Trophies -->
 <h2 align="center"> 🏆 Trophies </h2>
 
