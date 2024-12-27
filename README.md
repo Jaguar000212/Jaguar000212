@@ -14,8 +14,24 @@
 - 🌱 Passionate about Machine Learning, Artificial Intelligence, and modern Software Engineering practices.
 - ✍️ Avid gamer and technology aficionado exploring creative side projects and hobbies.
 
-<!--Profile Count Badge-->
-<img src="https://komarev.com/ghpvc/?username=Jaguar000212&label=Profile%20views&color=2234AE&style=for-the-badge&logo=star" alt="Jaguar000212" style="padding-right:20px;" />
+<!--Profile Badges-->
+  
+![Profile Count](https://komarev.com/ghpvc/?username=Jaguar000212&label=Profile%20views&color=2234AE&style=for-the-badge&logo=star)
+
+
+![Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000.svg?style=for-the-badge&logo=GitHub-Copilot&logoColor=white)
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://jaguar000212.me/)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/jaguar000212)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Jaguar000212/)
+[![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/c64c45a3a1eca2e21e348e187e916110)
+![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
 
 ---
 
@@ -68,6 +84,7 @@
       <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" />
       <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40" />
       <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" />
+      <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" />
     </td>
   </tr>
   <tr>
